@@ -1,0 +1,12 @@
+D:\Works\OOP\MetroNavigation\MetroNavigation\bin\Debug\MetroNavigation.exe.config
+D:\Works\OOP\MetroNavigation\MetroNavigation\bin\Debug\MetroNavigation.exe
+D:\Works\OOP\MetroNavigation\MetroNavigation\bin\Debug\MetroNavigation.pdb
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MainWindow.baml
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MainWindow.g.cs
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\App.g.cs
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation_MarkupCompile.cache
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.g.resources
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.Properties.Resources.resources
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.csproj.GenerateResource.Cache
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.exe
+D:\Works\OOP\MetroNavigation\MetroNavigation\obj\Debug\MetroNavigation.pdb

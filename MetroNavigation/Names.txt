@@ -1,0 +1,52 @@
+﻿110,Akademmistechko
+111,Zhytomyrska
+112,Sviatoshin
+113,Nyvky
+114,Beresteiska
+115,Shuliavka
+116,Politekhnichnyi institut
+117,Vokzalna
+118,Universitet
+119,Teatralna
+120,Khreschatyk
+121,Arsenalna
+122,Dnipro
+123,Hidropark
+124,Livoberezhna
+125,Darnitsia
+126,Chenihivska
+127,Lisova
+310,Syrets
+311,Dorohozhychi
+312,Lukianivska
+314,Zoloti vorota
+315,Palats sportu
+316,Klovska
+317,Pecherska
+318,Druzhby narodiv
+319,Vydubychi
+321,Slavutych
+322,Osokorky
+323,Pozniaky
+324,Kharkivska
+325,Vyrlytsia
+326,Boryspilska
+327,Chervonyi khutir
+210,Heroiv Dnipra
+211,Minska
+212,Obolon
+213,Petrivka
+214,Tarasa Shevchenka
+215,Kontraktova ploshcha
+216,Poshtova ploshcha
+217,khreshchatyk
+218,Ploshcha Lva Tolstoho
+219,Olimpiiska
+220,Palats "Ukraina"
+221,Lybidska
+222,Demiivska
+223,Holosiivka
+224,Vasylkivska
+225,Vystavkovyi tsentr
+226,Ipodrom
+227,Teremky
